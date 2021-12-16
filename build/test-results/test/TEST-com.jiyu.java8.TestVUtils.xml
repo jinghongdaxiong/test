@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.jiyu.java8.TestVUtils" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-12-16T08:29:48" hostname="xxzdeMacBook-Pro.local" time="0.026">
+  <properties/>
+  <testcase name="isBlankOrNoBlack()" classname="com.jiyu.java8.TestVUtils" time="0.026"/>
+  <system-out><![CDATA[hello
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -6,10 +6,13 @@ group 'org.example'
 version '1.0-SNAPSHOT'
 
 repositories {
+    google()   // 这里把google补上
     mavenCentral()
 }
 
 dependencies {
+    implementation 'org.projectlombok:lombok:1.18.18'
+    implementation 'android.arch.work:work-runtime:1.0.1'
     implementation 'org.projectlombok:lombok:1.18.18'
     testImplementation 'org.junit.jupiter:junit-jupiter-api:5.6.0'
     testRuntimeOnly 'org.junit.jupiter:junit-jupiter-engine'
